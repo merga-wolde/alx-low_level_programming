@@ -13,13 +13,11 @@ int main(void)
 
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
+		if (alphabet == "q" && alphabet == "e")
+			continue;
 		putchar (alphabet);
 	}
-	for 
-		(alpha = 'A'; alpha <= 'Z'; alpha++)
-	{
-		putchar (alpha);
-	}
+
 	putchar ('\n');
 	return (0);
 }
