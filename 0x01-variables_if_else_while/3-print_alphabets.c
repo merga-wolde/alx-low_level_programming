@@ -9,13 +9,13 @@
  */
 int main(void)
 {
-	char alphabet;
+	char alphabet, alpha;
 
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
 		putchar (alphabet);
 	}
-	for (char alpha = 'A'; alpha <= 'Z'; alpha++)
+	for (alpha = 'A'; alpha <= 'Z'; alpha++)
 	{
 		putchar (alpha);
 	}
