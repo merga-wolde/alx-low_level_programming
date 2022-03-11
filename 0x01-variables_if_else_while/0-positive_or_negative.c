@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /**
  * main- generate random number
@@ -14,7 +15,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	if (n < 0)
-		printf("%d is negative" , n);
+		Printf("%d is negative" , n);
 	else if(n == 0)
 		printf("%d is zero", n);
 	else
