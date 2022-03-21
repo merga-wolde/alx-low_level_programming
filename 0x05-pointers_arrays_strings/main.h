@@ -1,5 +1,5 @@
 void reset_to_98(int *c);
-int _isupper(int c);
+void swap_int(int *a, int *b);
 int _isdigit(int c);
 int mul(int a, int b);
 void print_numbers(void);
