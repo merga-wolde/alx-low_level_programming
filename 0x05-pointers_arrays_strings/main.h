@@ -1,4 +1,4 @@
-int reset_to_98(int c);
+void reset_to_98(int *c);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
