@@ -12,7 +12,7 @@ int i;
 
 /**
  * the end of S1 / the end of S2
- * 
+ *
 */
 
 for (i = 0; s1[i] != '\0' || s2[i] != '\0'; i++)
