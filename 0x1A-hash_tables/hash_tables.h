@@ -8,9 +8,9 @@
  * and the struncture definations used in the 0x1A. C - Hash
  * tables project.
  *
- * 
  *
- * 
+ *
+ *
  *
  */
 
